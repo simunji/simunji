@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @simunji_mulongwe
 - 👀 I’m interested in web developement both frontend and backend particularly Javascript with NodeJs, React and Python i have 4 years frontend web Development experience
-- ✨ My hard  skills are Javascript, CSS, HTML, NodJs, React, PHP and a bit of Python and Java
-- 🌱 I’m currently learning Python 
-- 💞️ I’m looking to collaborate on Javascript, React, NodeJs, Python and similar Projects
+- ✨ My hard  skills are Javascript, CSS, HTML,React and NodJs with express  
+- 🌱 I’m currently learning running a buisness and over see all technical works related to graphics, web, animation, etc 
+- 💞️ I’m looking to collaborate on Javascript, React and NodeJs Projects
 - 📫 Please send me an email to reach me on simunji.a[at]gmail.com
 
 <!---
